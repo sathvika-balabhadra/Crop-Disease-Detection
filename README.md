@@ -79,6 +79,6 @@ Dataset can be downloaded form [kaggle](https://www.kaggle.com/abdallahalidev/pl
 - streamlit
 - numpy
 - pandas  
-pillow  
-keras  
-matplotlib  
+- pillow
+- keras
+- matplotlib  
