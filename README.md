@@ -1,6 +1,6 @@
-## 🪴 Plant Disease Detection
+## 🪴 Crop Disease Detection
 
-The Plant Disease Detection system is an AI-powered application that helps farmers and agronomists identify crop diseases in real time. Users upload an image of a plant leaf, which is then analyzed by a Convolutional Neural Network (CNN) model hosted on a Streamlit web interface. The model classifies the type of plant, detects any disease, and provides recommended treatments or preventive actions.
+The Crop Disease Detection system is an AI-powered application that helps farmers and agronomists identify crop diseases in real time. Users upload an image of a plant leaf, which is then analyzed by a Convolutional Neural Network (CNN) model hosted on a Streamlit web interface. The model classifies the type of plant, detects any disease, and provides recommended treatments or preventive actions.
 
 The application is designed for accessibility and efficiency which enabling farmers to get accurate diagnostic results without specialized equipment, supporting better decision-making and early intervention.
 
